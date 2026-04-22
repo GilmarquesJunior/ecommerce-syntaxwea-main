@@ -1,9 +1,10 @@
+/* header.css */
 .header {
 	position: fixed;
 	top: 60px;
 	left: 50%;
 	transform: translate(-50%);
-	width: calc(100% - 210px);
+	width: 1260px;
 	border-radius: 15px;
 	z-index: 999;
 	display: flex;
@@ -11,7 +12,6 @@
 	align-items: center;
 	padding: 0.265rem 1.25rem;
 	background-color: #ffffff;
-    max-width: 1320px;
 }
 
 .logo img {
